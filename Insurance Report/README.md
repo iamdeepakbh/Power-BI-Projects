@@ -75,8 +75,11 @@ Use visualizations to present the proportion and trends of different claim types
 ## Tools and Technologies:
 
 Programming Languages: Python
+
 Data Analysis Libraries: Pandas, NumPy, Scikit-learn
+
 Visualization Tools: Matplotlib, Power BI
+
 Database Management: SQL
 
 ## Deliverables:
